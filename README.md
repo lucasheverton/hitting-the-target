@@ -1,4 +1,6 @@
-# hitting-the-target
+Acerte o Alvo (se puder) 
+
+![image](https://user-images.githubusercontent.com/56878243/183739287-047fb9af-fed8-4169-aeba-2854ecd97ff5.png)
 
 ## Project setup
 ```
